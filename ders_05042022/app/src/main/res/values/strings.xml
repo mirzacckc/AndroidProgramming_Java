@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ders_05042022</string>
+    <string name="degisecek_yazi">Bu yazı değişsin</string>
+    <string name="degismis_yazi">Değişti bile</string>
+</resources>
