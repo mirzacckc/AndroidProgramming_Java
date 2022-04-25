@@ -30,3 +30,7 @@
 
 + Toast kullanımı
 + Proje: Basit hesap makinesi
+
+<img src="Pictures/hesapMakinesiAndroid.PNG" alt="drawing" width="200"/>
+<img src="Pictures/hesapMakinesiAndroid2.PNG" alt="drawing" width="200"/>
+<img src="Pictures/hesapMakinesiAndroid3.PNG" alt="drawing" width="200"/>
