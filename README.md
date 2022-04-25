@@ -19,7 +19,7 @@
 4. *ders_16042022:*
 
 + For Döngüsü kullanımı
-+ Proje: 1-10'a kadar olan sayıalrın toplamını ekrana yazdırma
++ Proje: 1-10'a kadar olan sayıların toplamını ekrana yazdırma
 
 5. *ders_19042022:*
 
